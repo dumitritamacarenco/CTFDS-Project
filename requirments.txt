@@ -1,0 +1,59 @@
+CTFDS Final Project — What We Must Do
+
+Deadline: December 4, 2026, 23:59 (DTU Learn)
+
+1) Choose the project problem
+- Pick a relevant, real data science problem.
+- Make sure it is technically challenging (not a trivial task).
+
+2) Use required methods
+- Use at least 1 course topic (preferably 2).
+- Add at least 1 method not directly taught in lectures.
+- If using only 1 course topic, it must be central and used in a nontrivial way.
+
+Course topics that count:
+- MapReduce
+- Similar items / LSH
+- Frequent items (Apriori, PCY, or enhancements)
+- General clustering (+ evaluation, e.g., Davies-Bouldin)
+- Graph clustering (+ evaluation, e.g., modularity)
+
+Note: TF-IDF alone does not count as a main course topic.
+
+3) Build and evaluate the solution
+- Get a dataset and document where it came from.
+- Preprocess data and explain what was done.
+- Implement the solution (not only plug-and-play usage).
+- Evaluate results and explain why the method worked or failed.
+
+4) Prepare final report
+- Max 11,000 characters (excluding spaces); 12,500 if group of 5.
+- Approx. 4 pages (4.5 pages if group of 5).
+- Include:
+  - problem motivation
+  - data source + preprocessing
+  - methods and key decisions
+  - results + evaluation
+  - explanation of the extra (non-course) method
+  - concise summary near the beginning
+  - all member names on title page
+
+5) Prepare notebook appendix
+- Submit a well-documented Jupyter notebook with code.
+- Include clear run instructions.
+- Keep it as self-contained and reproducible as possible.
+
+6) Submit on DTU Learn
+- Report
+- Notebook appendix
+- Data (or GitHub link if data is too large)
+- Group contribution outline (can be in appendix)
+
+Final check before upload:
+- [ ] Challenging problem
+- [ ] Required course topic(s) used correctly
+- [ ] One extra method beyond lectures included
+- [ ] Results evaluated and discussed
+- [ ] Report within limit and complete
+- [ ] Notebook runs with instructions
+- [ ] All required files uploaded before deadline

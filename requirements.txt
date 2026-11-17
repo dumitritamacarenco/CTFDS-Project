@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+rapidfuzz
+sentence-transformers
+plotly
+ipykernel
+ipywidgets

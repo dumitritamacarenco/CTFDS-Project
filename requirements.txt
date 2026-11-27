@@ -6,3 +6,4 @@ plotly
 ipykernel
 ipywidgets
 plotpy
+nbformat>=4.2.0

@@ -7,3 +7,4 @@ ipykernel
 ipywidgets
 plotpy
 nbformat>=4.2.0
+pandas
